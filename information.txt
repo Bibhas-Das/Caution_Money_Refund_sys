@@ -1,8 +1,0 @@
-This is my 6th sem Webdesign project.
-Project name : Caution money refund system
-
-
-
-Bibhas Das
-Backend Developer 
-Date:20/5/2023
